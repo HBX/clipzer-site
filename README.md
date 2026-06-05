@@ -12,6 +12,6 @@
 
 发布后可在 App Store Connect 使用：
 
-- 隐私政策 URL：`https://你的用户名.github.io/clipzer-site/privacy.html`
-- 用户协议 URL：`https://你的用户名.github.io/clipzer-site/terms.html`
-- 支持 URL：`https://你的用户名.github.io/clipzer-site/support.html`
+- 隐私政策 URL：`https://hbx.github.io/clipzer-site/privacy.html`
+- 用户协议 URL：`https://hbx.github.io/clipzer-site/terms.html`
+- 支持 URL：`https://hbx.github.io/clipzer-site/support.html`
